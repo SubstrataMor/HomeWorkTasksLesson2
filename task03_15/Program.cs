@@ -21,4 +21,4 @@ void Solution(int number)   // Создаем метод без возврата
     }
     else { Console.WriteLine("Это выходной день!"); }   // Во всех остальных случаях (числа 6 и 7) будем указывать, что этот день выходной
 }
-Solution(StartWeekDay());   // Объединем методы
+Solution(StartWeekDay());   // Объединяем методы
